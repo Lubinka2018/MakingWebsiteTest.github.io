@@ -1,5 +1,3 @@
-
-![Alt text](Saxion.png)
 ---
 layout: home
 permalink: /
