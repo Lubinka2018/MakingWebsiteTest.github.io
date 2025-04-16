@@ -15,5 +15,3 @@ permalink: /
 
 ### 📄 Pages
 
-- [About](about/)
-- [Workshop](workshop/)
